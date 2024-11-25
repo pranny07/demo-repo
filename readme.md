@@ -1,2 +1,2 @@
 # demo
-wassup demo session.
+wassup demo session!
